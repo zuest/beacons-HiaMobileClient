@@ -1,3 +1,14 @@
 page-home {
-
+  #wrap { width: 2000px; height: 800px; padding: 0; overflow: hidden; }
+  #frame { width: 1600px; height: 2800px; border: 1px solid black; }
+  #frame {
+    -ms-zoom: 0.34;
+    -moz-transform: scale(0.34);
+    -moz-transform-origin: 0 0;
+    -o-transform: scale(0.34);
+    -o-transform-origin: 0 0;
+    -webkit-transform: scale(0.34);
+    -webkit-transform-origin: 0 0;
+  }
 }
+

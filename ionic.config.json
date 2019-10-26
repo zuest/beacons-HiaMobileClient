@@ -1,8 +1,7 @@
 {
-  "name": "HandyJacks",
-  "app_id": "",
-  "type": "ionic-angular",
+  "name": "Behive",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "type": "ionic-angular"
 }
